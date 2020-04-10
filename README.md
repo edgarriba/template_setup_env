@@ -1,6 +1,6 @@
 ## Overview
 
-This is a template repository to help with [ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501) in order to replicate results with same software dependencies across different machines.
+This is a template repository to help with [ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501) in order to replicate results with same software dependencies across different machines. 
 
 **Why this is important ?**
 
@@ -69,3 +69,5 @@ eriba@kornia:~/software/template_setup_env$ source path.bash.inc
 (venv) eriba@kornia:~/software/template_setup_env$ conda deactivate
 eriba@kornia:~/software/template_setup_env$ python
 ```
+
+**NOTE:** this has been take from [`kornia`](https://github.com/arraiyopensource/kornia) github repository.
