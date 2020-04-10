@@ -14,7 +14,7 @@ In this repository are provided a couple of scripts that helps you to create the
 
 You only need to **copy three files** in the root of your project - [`environment.yml`](https://github.com/edgarriba/template_setup_env/blob/master/environment.yml) [`setup_dev_env.sh`](https://github.com/edgarriba/template_setup_env/blob/master/setup_dev_env.sh)  [`path.bash.inc`](https://github.com/edgarriba/template_setup_env/blob/master/path.bash.inc)
 
-Then, your project should have the following structure:
+After this, your project should have the following structure:
 ```
 /my_project
   /docs
