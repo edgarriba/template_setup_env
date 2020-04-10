@@ -1,5 +1,3 @@
-# ML Code Completeness Checklist [1]
-
 ## Overview
 
 This is a template repository to help with [ML Code Completeness Checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501) in order to replicate results with same software dependencies across different machines.
